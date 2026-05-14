@@ -1,7 +1,7 @@
-# Cyclistic Bike-Share: Comparative Behavioral Analysis
+# Cyclistic Bike-Share: Comparative Behavioural Analysis
 
 ### Project Overview
-This analysis explores the behavioral differences between *Annual Members* and *Casual Riders* to support a conversion-based marketing strategy. By analyzing over 5 million rows of trip data, this project identifies "conversion triggers" to transition casual users into long-term subscribers.
+This analysis explores the Behavioural differences between *Annual Members* and *Casual Riders* to support a conversion-based marketing strategy. By analyzing over 5 million rows of trip data, this project identifies "conversion triggers" to transition casual users into long-term subscribers.
 
 ### Key Deliverables
 * *Interactive Dashboard:* [https://public.tableau.com/views/CyclisticBike-ShareMembersvs_CasualAnalysis/CyclisticBike-ShareAnalysisBehaviorComparisonBetweenCasualRidersandMembers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
