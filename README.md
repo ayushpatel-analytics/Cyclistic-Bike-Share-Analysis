@@ -5,6 +5,8 @@ This analysis explores the Behavioural differences between *Annual Members* and 
 
 ### Key Deliverables
 * *Interactive Dashboard:* [https://public.tableau.com/views/CyclisticBike-ShareMembersvs_CasualAnalysis/CyclisticBike-ShareAnalysisBehaviorComparisonBetweenCasualRidersandMembers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  ![Dashboard Preview]
+  (Cyclistic Dashboard.png)
 * *Business Requirements Document (BRD):* Outlining the project methodology and technical hurdles.
 * *Executive Presentation:* A 10-slide summary of data-backed marketing recommendations.
 * *SQL Documentation:* A complete record of the data cleaning and aggregation process.
