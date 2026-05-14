@@ -4,7 +4,7 @@
 This analysis explores the behavioral differences between *Annual Members* and *Casual Riders* to support a conversion-based marketing strategy. By analyzing over 5 million rows of trip data, this project identifies "conversion triggers" to transition casual users into long-term subscribers.
 
 ### Key Deliverables
-* *Interactive Dashboard:* [PASTE YOUR TABLEAU PUBLIC LINK HERE])
+* *Interactive Dashboard:* [https://public.tableau.com/views/CyclisticBike-ShareMembersvs_CasualAnalysis/CyclisticBike-ShareAnalysisBehaviorComparisonBetweenCasualRidersandMembers?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 * *Business Requirements Document (BRD):* Outlining the project methodology and technical hurdles.
 * *Executive Presentation:* A 10-slide summary of data-backed marketing recommendations.
 * *SQL Documentation:* A complete record of the data cleaning and aggregation process.
